@@ -4,4 +4,4 @@ This script is designed for those who are tired of installing docker with their 
 Bash script for docker install in Debian-like systems 🐳
 
 ## ⚙️ Version
-This is the final version for Debian-like systems.
+This is the **final** version for Debian-like systems.
